@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(137, 207, 219);
+}
+h3 {
+    color: blue;
+}
+hr {
+    border-style:  dotted none none ;
+    background-color: none;
+    height: 30px;
+    width: 15%;
+}
